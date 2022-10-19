@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a continuous Learner!!
 
-Hi, I'm [Santiago Julian](https://www.linkedin.com/in/santiago-julian-monsalve-4615a220b/), a passionate full stack web developer from <img src="https://as2.ftcdn.net/v2/jpg/03/29/74/71/1000_F_329747191_p7mGtEEwird6ORrEuetTj41LuqnuSQf7.jpg" width="13"/> <b>San Cristobal, Venezuela</b>, currently living in <img src="https://t3.ftcdn.net/jpg/02/78/85/04/240_F_278850461_Pnm5lcyLfvI8Wctf4xyL32zg8ySVc1ns.jpg" width="13"/> <b>Cologne, Germany</b>. Developing elegant and detailed interfaces is my passion, for which I take great care in the code quality of the things I build.
+Hi, I'm [Santiago Julian](https://www.linkedin.com/in/santiago-julian-monsalve-4615a220b/), a passionate full stack web developer from <img src="https://t3.ftcdn.net/jpg/02/94/07/84/240_F_294078409_z90ZnJQS4sL1dDuTgtGa9ld9VYNc5MIv.jpg" width="15"/> <b> San Cristobal, Venezuela</b>, currently living in <img src="https://t4.ftcdn.net/jpg/02/02/78/83/240_F_202788315_wYamNvRGLhylNkXgtRGuik5IceJuWbzJ.jpg" width="15"/> <b> Cologne, Germany</b>. Developing elegant and detailed interfaces is my passion, for which I take great care in the code quality of the things I build.
 
 - 🔭 Consulting at Accenture ASG
 - 🌱 Daily catching up (trying) with the web trends
@@ -18,7 +18,7 @@ Hi, I'm [Santiago Julian](https://www.linkedin.com/in/santiago-julian-monsalve-4
 <img align="left" alt="Sass" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
