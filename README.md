@@ -31,4 +31,4 @@ Hi, I'm [Santiago Julian](https://www.linkedin.com/in/santiago-julian-monsalve-4
 
 ### 📈 My GitHub Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=santiagoejm&show_icons=true&theme=gotham" alt="santiagoejm" />
+<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=santiagoejm&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="santiagoejm" />
