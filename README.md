@@ -8,6 +8,7 @@ Hi, I'm [Santiago Julian](https://www.linkedin.com/in/santiago-julian-monsalve-4
 - 🌱 Daily catching up with the web trends
 - 👯 Looking to collaborate in more open source projects
 - 🥅 Goals: Learn about web3, DevOps and cloud computing platforms
+  
  [- ⚡ Fun fact: One thing I cannot live without is Popcorn]: # 
 
 ### Languages and Tools:
