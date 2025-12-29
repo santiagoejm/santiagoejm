@@ -4,11 +4,11 @@
 
 Hi, I'm [Santiago Julian](https://www.linkedin.com/in/santiago-julian-monsalve-4615a220b/), a passionate full stack web developer from <img src="https://toppng.com//public/uploads/preview/venezuela-flag-venezuela-flag-icon-11553459529kgqrltqmsj.png" width="13"/> <b> San Cristobal, Venezuela</b>, currently living in <img src="https://www.citypng.com/public/uploads/preview/round-german-flag-icon-free-png-11648758182o7cshs77hs.png" width="13"/> <b> Cologne, Germany</b>. Developing elegant and detailed interfaces is my passion, for which I take great care in the code quality of the things I build.
 
-- 🔭 Consulting at Accenture ASG
-- 🌱 Daily catching up (trying) with the web trends
+ [- 🔭 Consulting at Accenture ASG]: #
+- 🌱 Daily catching up with the web trends
 - 👯 Looking to collaborate in more open source projects
 - 🥅 Goals: Learn about web3, DevOps and cloud computing platforms
-- ⚡ Fun fact: One thing I cannot live without is Popcorn
+ [- ⚡ Fun fact: One thing I cannot live without is Popcorn]: # 
 
 ### Languages and Tools:
 
